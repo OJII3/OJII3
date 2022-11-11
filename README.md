@@ -1,5 +1,6 @@
-# OJII3
+<!---HTMLとか超雑なのでお許しを--->
+<h1 align=center>OJII3</h>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a width="100%" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJII3&layout=compact">
 </a>
