@@ -3,13 +3,13 @@
 
 ## Homepage
 <p align=center font='1.2em'>
-<a href='https://ojii3.github.io'>ojii3.github.io</a>
+<a href='https://ojii3.github.io' target='_blank'>ojii3.github.io</a>
 </p>
 
 ## Stats
 
 <div align=center>
-<a width="100%" href="https://github.com/anuraghazra/github-readme-stats">
+<a width="100%" href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJII3&layout=compact">
 </a>
 </div>
