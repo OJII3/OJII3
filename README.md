@@ -2,8 +2,8 @@
 <h1 align=center>OJII3</h>
 
 ## Homepage
-<p align=center font='1.2em'>
-  <a href='https://ojii3.github.io' target='_blank'>ojii3.github.io</a>
+<p align='center'>
+  <a href='https://ojii3.github.io'>ojii3.github.io</a>
 </p>
 
 ## GitHub Stats
