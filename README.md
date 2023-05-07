@@ -1,7 +1,1 @@
-# Portfolio
-
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [ESLint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
+<a href="https://ojii3.vercel.app"></a><h1 align="center">OJII3</h1></a>
