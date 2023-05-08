@@ -9,7 +9,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJII3&count_private=trye&layout=compact&langs_count=10&hide=shaderlab,mathematica,hlsl" />
     </a>
-
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img src="https://raw.githubusercontent.com/OJII3/OJII3/github-profile-summary-cards/profile-summary-card-output/github/0-profile-details.svg" />
     </a>
