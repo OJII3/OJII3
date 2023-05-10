@@ -1,14 +1,10 @@
 export default function Home() {
   return (
-    <main className="h-full">
+    <main className="bg-black">
       <header className="h-120">
-        <img
-          width={128}
-          height={128}
-          alt="profile"
-          src="https://avatars.githubusercontent.com/u/84656786?v=4"
-          className="mx-auto my-8 rounded-full"
-        />
+        <div className="">
+          <h1 className="text-4xl font-bold text-gray-800">Hello World</h1>
+        </div>
       </header>
     </main>
   );
