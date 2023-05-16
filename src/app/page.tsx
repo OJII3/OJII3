@@ -1,11 +1,16 @@
 export default function Home() {
   return (
-    <main className="bg-black">
-      <header className="h-120">
+    <>
+      <header className="bg-gray-600">
         <div className="">
-          <h1 className="text-4xl font-bold text-gray-800">Hello World</h1>
+          <h1 className="text-xl font-bold text-center text-gray-200">
+            Terminal ojii3@ojii3.vercel.app
+          </h1>
         </div>
       </header>
-    </main>
+      <main className="bg-black">
+        <textarea className="w-full h-full text-white bg-black">$</textarea>
+      </main>
+    </>
   );
 }

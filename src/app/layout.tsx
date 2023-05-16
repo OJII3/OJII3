@@ -1,8 +1,8 @@
 import "./globals.css";
-import { Inter } from "next/font/google";
+import { Inter, Imprima, Abel, Cairo } from "next/font/google";
 import { Metadata } from "next";
 
-const inter = Inter({ subsets: ["latin"] });
+const imprima = Cairo({ weight: "400", subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "OJII3",
@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={imprima.className}>{children}</body>
     </html>
   );
 }
