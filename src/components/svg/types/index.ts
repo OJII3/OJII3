@@ -1,3 +1,3 @@
-export type IconProps = {
+export type iconprops = {
   size?: number;
 };

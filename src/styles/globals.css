@@ -14,6 +14,10 @@
   }
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
 }

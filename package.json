@@ -6,13 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint && stylelint ."
+    "lint": "next lint && stylelint .",
+    "format": "next lint --fix && prettier --write ./src"
   },
   "dependencies": {
     "@types/node": "18.16.2",
     "@types/react": "18.2.0",
     "@types/react-dom": "18.2.1",
     "autoprefixer": "10.4.14",
+    "classnames": "^2.3.2",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.1",
     "next": "^13.4.1",

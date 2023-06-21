@@ -1,15 +1,42 @@
+import NextLink from "next/link";
+
 export default function Home() {
   return (
     <>
-      <header className="bg-gray-600">
-        <div className="">
-          <h1 className="text-xl font-bold text-center text-gray-200">
-            Terminal ojii3@ojii3.vercel.app
-          </h1>
-        </div>
+      <header className="flex justify-center h-64">
+        <img
+          width={128}
+          height={128}
+          alt="profile"
+          src="https://avatars.githubusercontent.com/u/84656786?v=4"
+          className="self-center rounded-full"
+        />
       </header>
-      <main className="bg-black">
-        <textarea className="w-full h-full text-white bg-black">$</textarea>
+      <main className="flex flex-col p-3 mx-auto h-max max-w-screen-lg gap-20">
+        <h1 className="m-auto text-4xl font-bold text-center text-gray-500">
+          I ❤️{" "}
+          <a
+            href="https://neovim.org"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Neovim!
+          </a>
+        </h1>
+        <div className="flex flex-col gap-12">
+          <NextLink
+            href="/about"
+            className="m-auto text-2xl font-bold text-center text-gray-500 transition-all hover:underline"
+          >
+            About Me {"->"}
+          </NextLink>
+          <NextLink
+            href="/playground"
+            className="m-auto text-2xl font-bold text-center text-gray-500 transition-all hover:underline"
+          >
+            My Playground {"->"}
+          </NextLink>
+        </div>
       </main>
     </>
   );
