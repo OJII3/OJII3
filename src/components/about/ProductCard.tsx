@@ -1,17 +1,9 @@
 "use client";
 
-// View Transition API is not yet supported by TypeScript
-declare global {
-  // eslint-disable-next-line no-unused-vars
-  interface Document {
-    // eslint-disable-next-line no-unused-vars
-    startViewTransition(callback: () => void): () => void;
-  }
-}
-
 import { FC, ReactNode, useCallback, useState } from "react";
 import classnames from "classnames";
 import styles from "@/styles/ProductCard.module.css";
+import { useStartViewTransitionCallback } from "@/lib/viewTransition";
 
 type ProductCardProps = {
   name: string;
@@ -29,12 +21,8 @@ export const ProductCard: FC<ProductCardProps> = ({
   sourceLink,
 }) => {
   const [isActive, setIsActive] = useState(false);
-  const changeActiveState = useCallback(
-    (bool: boolean) =>
-      document.startViewTransition(() => {
-        setIsActive(bool);
-      }),
-    []
+  const changeActiveState = useStartViewTransitionCallback((bool: boolean) =>
+    setIsActive(bool)
   );
 
   return (
