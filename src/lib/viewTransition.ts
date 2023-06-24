@@ -5,7 +5,8 @@ import { useCallback } from "react";
 declare global {
   // eslint-disable-next-line no-unused-vars
   interface Document {
-    startViewTransition(_callback: Function): void;
+    // eslint-disable-next-line no-unused-vars
+    startViewTransition: (callback: Function) => void | undefined;
   }
 }
 
@@ -19,9 +20,8 @@ export const useStartViewTransitionCallback: <T extends Function>(
   return useCallback<typeof callback.arguments>(
     (args: typeof callback.arguments) => {
       // ブラウザが未対応の場合、元のcallbackをそのまま返す
-      if (document.startViewTransition)
-        document.startViewTransition(callback.bind(null, args));
-      else callback;
+      if (!document.startViewTransition) return callback(args);
+      document.startViewTransition(callback.bind(null, args));
     },
     [callback]
   );

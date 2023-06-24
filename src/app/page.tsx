@@ -12,7 +12,7 @@ export default function Home() {
           className="self-center rounded-full"
         />
       </header>
-      <main className="flex flex-col p-3 mx-auto h-max max-w-screen-lg gap-20">
+      <main className="flex flex-col p-3 mx-auto h-max max-w-screen-lg gap-12">
         <h1 className="m-auto text-4xl font-bold text-center text-gray-500">
           I ❤️{" "}
           <a
@@ -23,7 +23,7 @@ export default function Home() {
             Neovim!
           </a>
         </h1>
-        <div className="flex flex-col gap-12">
+        <div className="flex flex-col gap-8">
           <NextLink
             href="/about"
             className="m-auto text-2xl font-bold text-center text-gray-500 transition-all hover:underline"

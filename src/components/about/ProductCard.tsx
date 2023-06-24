@@ -1,6 +1,6 @@
 "use client";
 
-import { FC, ReactNode, useCallback, useState } from "react";
+import { FC, ReactNode, useState } from "react";
 import classnames from "classnames";
 import styles from "@/styles/ProductCard.module.css";
 import { useStartViewTransitionCallback } from "@/lib/viewTransition";
@@ -63,12 +63,10 @@ export const ProductCard: FC<ProductCardProps> = ({
               onClick={() => {
                 changeActiveState(false);
               }}
+              aria-label="close"
             >
-              <svg viewBox="0 0 24 24" fill="currentColor">
-                <path d="M0 0h24v24H0z" fill="none" />
-                <path d="M6.7 6.7l10.6 10.6-1.4 1.4L5.3 8.1z" />
-                <path d="M17.3 6.7L6.7 17.3l1.4 1.4L18.7 8.1z" />
-              </svg>
+              <span className="absolute block w-8 h-1 bg-gray-500 rounded-full transform rotate-45"></span>
+              <span className="absolute block w-8 h-1 bg-gray-500 rounded-full transform -rotate-45"></span>
             </button>
             <img src={image} alt="profile" className="w-32 h-32 rounded-full" />
             <h2 className="mt-4 text-xl font-bold text-center text-gray-500">
