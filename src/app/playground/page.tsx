@@ -1,7 +1,9 @@
 export default function Playground() {
   return (
-    <div className="flex items-center justify-center text-center h-96 animate-pulse">
-      Under Construction...
+    <div className="h-screen text-white bg-black">
+      <div className="flex flex-col items-center justify-center h-full animate-pulse">
+        Under Construction...
+      </div>
     </div>
   );
 }

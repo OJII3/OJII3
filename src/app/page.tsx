@@ -1,8 +1,10 @@
+import { Navbar } from "@/components/Navbar";
 import NextLink from "next/link";
 
 export default function Home() {
   return (
     <>
+      <Navbar />
       <header className="flex justify-center h-64">
         <img
           width={128}

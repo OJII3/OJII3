@@ -1,10 +1,13 @@
 import { ProductCard } from "@/components/about/ProductCard";
+import { SkillCard } from "@/components/about/SkillCard";
 import { Footer } from "@/components/Footer";
+import { Navbar } from "@/components/Navbar";
 import NextLink from "next/link";
 
 export default function About() {
   return (
     <>
+      <Navbar />
       <div className="sticky w-11/12 mx-auto top-20">
         <NextLink
           href="/"
@@ -23,7 +26,7 @@ export default function About() {
           <h2 className="mx-auto text-2xl font-bold text-gray-500">基本情報</h2>
           <ul className="mt-4 text-gray-700">
             <li className="mx-auto text-xl list-disc list-inside marker:text-2xl">
-              大学生(2022年度入学)
+              機械系の大学生(2022年度入学)
             </li>
           </ul>
         </div>
@@ -56,35 +59,30 @@ export default function About() {
             </li>
             <li>
               <ProductCard
-                name="このサイト"
+                name="このポートフォリオ"
                 image="/works/nextjs-logo.svg"
                 liveLink="/"
                 sourceLink="https://github.com/ojii3/ojii3"
               >
-                <p>Tailwind CSS も使ってみた</p>
+                <p>
+                  Tailwind CSS を使ってみたり、View Transition API
+                  を使ってみたりしました。
+                </p>
               </ProductCard>
             </li>
           </ul>
         </div>
         <div>
-          <h2 className="mx-auto text-2xl font-bold text-gray-500">趣味</h2>
-          <ul className="mt-4 text-gray-700">
-            <li className="mx-auto text-xl list-disc list-inside marker:text-2xl">
-              Neovim
-            </li>
-            <li className="mx-auto text-xl list-disc list-inside marker:text-2xl">
-              Blender
-            </li>
-            <li className="mx-auto text-xl list-disc list-inside marker:text-2xl">
-              Unity
-            </li>
-            <li className="mx-auto text-xl list-disc list-inside marker:text-2xl">
-              AtCoder
-            </li>
-            <li className="mx-auto text-xl list-disc list-inside marker:text-2xl">
-              ROS2
-            </li>
-          </ul>
+          <h2 className="mx-auto text-2xl font-bold text-gray-500">
+            趣味・スキル
+          </h2>
+          <div className="flex flex-wrap mt-4 text-gray-700 gap-1">
+            <SkillCard name="Neovim" image="/skills/neovim-logo.png" />
+            <SkillCard name="Unity" image="/skills/unity-logo.png" />
+            <SkillCard name="Blender" image="/skills/blender-logo.png" />
+            <SkillCard name="AtCoder" image="/skills/atcoder-logo.png" />
+            <SkillCard name="ROS2" image="/skills/ros-logo.png" />
+          </div>
         </div>
       </main>
       <Footer />
