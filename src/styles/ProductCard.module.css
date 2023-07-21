@@ -1,6 +1,0 @@
-.ProductCard {
-  view-transition-name: "product-card";
-  view-transition-duration: 0.3s;
-  view-transition-timing-function: ease-in-out;
-  contain: paint;
-}
