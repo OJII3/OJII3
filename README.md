@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojii3&theme=transparent&hide_border=true&layout=donut-vertical&size_weight=0.5&count_weight=0.5&langs_count=10&custom_title=Repo%20:%20Commit%20=%201%20:%201">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojii3&theme=transparent&hide_border=true&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=10&custom_title=Repo%20:%20Commit%20=%201%20:%201">
 </p>
 
 <p align="center">
