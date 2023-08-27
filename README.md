@@ -16,5 +16,5 @@
 </p>
 
 <p align="center>
-  <img src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/3-stats.svg">
+  <img height="160" src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/3-stats.svg">
 </p>
