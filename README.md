@@ -1,6 +1,8 @@
 <h1 align="center">OJII3</h1>
 
-[Portfolio →](https://ojii3.vercel.app/)
+<p align="center">
+  <a href="https://ojii3.vercel.app/">Portfolio</a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ojii3&show_icons=true&theme=transparent&hide_border=true">
