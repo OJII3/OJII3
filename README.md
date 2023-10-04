@@ -1,7 +1,7 @@
 <h1 align="center">OJII3</h1>
 
 <p align="center">
-  <a href="https://ojii3.github.io /">Portfolio</a>
+  <a href="https://ojii3.github.io/profile">Portfolio</a>
 </p>
 <br />
 
