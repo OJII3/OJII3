@@ -11,9 +11,8 @@
 
 <p align="center">
   <img height="160" src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/1-repos-per-language.svg">
-  <img height="160" src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/2-most-commit-language.svg">
 </p>
 
 <p align="center" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojii3&langs_count=10&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojii3&langs_count=10&layout=compact&theme=transparent">
 </p>
