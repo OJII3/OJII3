@@ -15,5 +15,5 @@
 </p>
 
 <p align="center" height="160">
-  <img src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/3-stats.svg">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojii3&langs_count=10&layout=compact">
 </p>
