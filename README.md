@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/1-commits-per-language.svg">
+  <img height="160" src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/2-commits-per-language.svg">
 </p>
 
 <p align="center" height="160">
