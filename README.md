@@ -14,5 +14,5 @@
 </p>
 
 <p align="center" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojii3&langs_count=10&layout=compact&theme=transparent&hide_border=true">
+  <img src="https://readme-stats-seven-tau.vercel.app/api/top-langs?username=ojii3&langs_count=10&layout=compact&theme=transparent&hide_border=true">
 </p>
