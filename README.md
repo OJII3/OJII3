@@ -12,7 +12,3 @@
 <p align="center">
   <img height="160" src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/2-most-commit-language.svg">
 </p>
-
-<p align="center" height="160">
-  <img src="https://readme-stats-seven-tau.vercel.app/api/top-langs?username=ojii3&langs_count=10&layout=compact&theme=transparent&hide_border=true">
-</p>
