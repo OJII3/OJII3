@@ -10,6 +10,7 @@
 - 3DCG (Unity, Blender)
 - Robocon (ROS 2)
 
+![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=ojii3&repo=dotfiles&theme=transparent&hide_border=true)
 
 
 ## Stats
