@@ -10,6 +10,13 @@
 - 3DCG (Unity, Blender)
 - Robocon (ROS 2)
 
+## Langs
+
+- TypeScript
+- CSS
+- C#
+- C++
+
 ## Stats
 
 <p align="center">
