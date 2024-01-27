@@ -1,9 +1,16 @@
-<h1 align="center">OJII3</h1>
+# OJII3
 
-<p align="center">
-  <a href="https://ojii3.github.io/profile">Portfolio</a>
-</p>
-<br />
+[PROFILE](https://ojii3.github.io/profile)
+
+## Interests, Hobby, 
+
+- Neovim
+- Linux Desktop (ArchLinux)
+- Web Frontend (Next.js, CSS)
+- 3DCG (Unity, Blender)
+- Robocon (ROS 2)
+
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ojii3&show_icons=true&theme=transparent&hide_border=true">
