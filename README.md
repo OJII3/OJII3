@@ -2,15 +2,15 @@
 
 [PROFILE](https://ojii3.github.io/profile)
 
-## Interests, Hobby, 
+## Interests, Hobby, etc
+
+![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=ojii3&repo=dotfiles&theme=transparent)
 
 - Neovim
 - Linux Desktop (ArchLinux)
 - Web Frontend (Next.js, CSS)
 - 3DCG (Unity, Blender)
 - Robocon (ROS 2)
-
-![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=ojii3&repo=dotfiles&theme=transparent&hide_border=true)
 
 
 ## Stats
