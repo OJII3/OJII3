@@ -4,7 +4,7 @@
 
 ## Interests, Hobby, etc
 
-![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=ojii3&repo=dotfiles&theme=transparent)
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=ojii3&repo=dotfiles&theme=transparent)](https://github.com/ojii3/dotfiles)
 
 - Neovim
 - Linux Desktop (ArchLinux)
