@@ -6,11 +6,10 @@
 
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=ojii3&repo=dotfiles&theme=transparent)](https://github.com/ojii3/dotfiles)
 
-- Neovim
-- Linux Desktop (ArchLinux)
-- Web Frontend (Next.js, CSS)
-- 3DCG (Unity, Blender)
-- Robocon (ROS 2)
+- *Linux Desktop* (Arch, Neovim, i3,...)
+- *3DCG* (Unity, Blender)
+- *Robocon* (ROS 2)
+- *Web Frontend* (Next.js, CSS)
 
 
 ## Stats
