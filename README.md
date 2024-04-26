@@ -1,6 +1,6 @@
 # OJII3
 
-[PROFILE](https://ojii3.github.io/profile)
+[ojii3.dev](https://ojii3.dev)
 
 ## Interests, Hobby, etc
 
