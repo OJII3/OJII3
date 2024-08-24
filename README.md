@@ -6,7 +6,7 @@
 
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=ojii3&repo=dotfiles&theme=transparent)](https://github.com/ojii3/dotfiles)
 
-- **Linux Desktop** (~~Arch~~ NixOS, Neovim, ~~i3~~ Hyprland,...)
+- **Linux Desktop** (NixOS, Neovim, Hyprland,...)
 - **3DCG** (Unity, Blender)
 - **Robocon** (ROS 2)
 - **Web Frontend** (Next.js, CSS)
