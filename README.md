@@ -15,7 +15,7 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojii3&show_icons=true&theme=transparent&hide_border=true">
+  <img src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/3-stats.svg">
 </p>
 
 <p align="center">
