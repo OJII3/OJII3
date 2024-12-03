@@ -1,4 +1,6 @@
-# [OJII3](https://ojii3.dev)
+# <a href="https://ojii3.dev">OJII3</a>
+
+Linux, Neovim, Blender, Unity, etc
 
 <p align="center">
   <img height="160" src="/profile-summary-card-output/transparent/1-repos-per-language.svg">
