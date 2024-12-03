@@ -1,4 +1,4 @@
-# <p slign="center"><a href="https://ojii3.dev">OJII3</a></p>
+# <p align="center"><a href="https://ojii3.dev">OJII3</a></p>
 
 <p align="center">Linux, Neovim, Blender, Unity, etc</p>
 
