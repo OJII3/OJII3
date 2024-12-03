@@ -15,6 +15,6 @@
 <p align="center">
   <img height="160" src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/3-stats.svg">
  <img height="160"
-src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/kacho_ga/4-productive-time.svg" />
+src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/4-productive-time.svg" />
 </p>
 
