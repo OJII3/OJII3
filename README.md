@@ -1,9 +1,10 @@
-<h1 align="center"><a href="https://ojii3.dev">OJII3.dev</a></h1>
+<h1><a href="https://ojii3.dev">OJII3.dev</a></h1>
 
-<p align="center">Linux, Neovim, Blender, Unity, etc</p>
+<p>
+</p>
 
 <details>
-<summary align="center"><b>GitHub Stats</b></summary>
+<summary><b>GitHub Stats</b></summary>
 
 <p align="center">
   <img height="160" src="/profile-summary-card-output/transparent/1-repos-per-language.svg">
