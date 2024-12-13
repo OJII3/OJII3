@@ -1,7 +1,9 @@
 <h1><a href="https://ojii3.dev">OJII3.dev</a></h1>
 
 
-[![My Env](https://skillicons.dev/icons?i=nix,neovim,rider&theme=light)](https://skillicons.dev)
+[![My Env](https://skillicons.dev/icons?i=nix,neovim&theme=light)](https://skillicons.dev)
+
+[![My Skill](https://skillicons.dev/icons?i=unity,nextjs&theme=light)](https://skillicons.dev)
 
 <details>
 <summary><b>GitHub Stats</b></summary>
