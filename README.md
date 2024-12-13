@@ -3,7 +3,7 @@
 
 [![My Env](https://skillicons.dev/icons?i=nix,neovim&theme=light)](https://skillicons.dev)
 
-[![My Skill](https://skillicons.dev/icons?i=unity,nextjs&theme=light)](https://skillicons.dev)
+[![My Skill](https://skillicons.dev/icons?i=unity,blender,nextjs&theme=light)](https://skillicons.dev)
 
 <details>
 <summary><b>GitHub Stats</b></summary>
