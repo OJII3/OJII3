@@ -1,6 +1,9 @@
-<h1 align="center"><a href="https://ojii3.dev">OJII3</a></h1>
+<h1 align="center"><a href="https://ojii3.dev">OJII3.dev</a></h1>
 
 <p align="center">Linux, Neovim, Blender, Unity, etc</p>
+
+<details>
+<summary>GitHub Stats</summary>
 
 <p align="center">
   <img height="160" src="/profile-summary-card-output/transparent/1-repos-per-language.svg">
@@ -13,3 +16,4 @@
 src="https://raw.githubusercontent.com/OJII3/OJII3/main/profile-summary-card-output/transparent/4-productive-time.svg" />
 </p>
 
+</details>
