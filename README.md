@@ -1,7 +1,6 @@
 <h1><a href="https://ojii3.dev">OJII3.dev</a></h1>
 
-<p>
-</p>
+[![My Env](https://skillicons.dev/icons?i=nix,hyprland,,neovim&theme=light)](https://skillicons.dev)
 
 <details>
 <summary><b>GitHub Stats</b></summary>
