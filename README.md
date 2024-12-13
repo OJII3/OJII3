@@ -3,7 +3,7 @@
 <p align="center">Linux, Neovim, Blender, Unity, etc</p>
 
 <details>
-<summary>GitHub Stats</summary>
+<summary align="center"><b>GitHub Stats</b></summary>
 
 <p align="center">
   <img height="160" src="/profile-summary-card-output/transparent/1-repos-per-language.svg">
